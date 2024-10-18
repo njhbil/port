@@ -1,0 +1,49 @@
+
+
+.xx {
+  background-color: #3c3d37;
+  margin-top: 0  !important;
+}
+
+.gel{
+  margin: 0 !important;
+}
+
+.xi {
+  align-items: center !important;
+  margin-left: 18%;
+  margin-top: 0px !important;
+}
+
+@media screen and (max-width: 756px) {
+  .xc {
+    margin-left: 10% !important ;
+  }
+  .mobile {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 756px) {
+  .xa {
+    width: 450px;
+    margin-right: 0px !important;
+  }
+}
+
+@media screen and (min-width: 756px) {
+  .xi {
+    margin-top: 0% ;
+    width: 500px;
+    height: 500px;
+  }
+}
+
+.card {
+  background: none;
+  border: none;
+}
+
+.vv {
+  justify-items: end;
+}

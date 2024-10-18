@@ -1,0 +1,35 @@
+
+.navbar, .navbar a, .navbar-brand {
+    color: white !important;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    nav-right: 0px;
+  }
+
+  .navbar-brand {
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    margin-right: 35vw ;
+    margin-left: 12vw;
+    font-size:20px;
+  }
+
+  @media screen and (max-width: 756px) {
+    .navbar-brand {
+      margin-right: 0px !important; 
+
+    }
+    .navbar-toggler{
+      margin-left: 0% !important;
+    }
+
+  }
+
+
+.navbar {
+    background-color: rgb(26, 24, 24);
+    position: fixed;
+    width: 100%;
+}
+
+.nav-link{
+    text-align: end;
+}

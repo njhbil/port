@@ -1,0 +1,10 @@
+
+  @media screen and (max-width: 756px) {
+    .card-text {
+      width: 350px;
+    }
+  }
+
+  .vv{
+    color: aliceblue;
+  }

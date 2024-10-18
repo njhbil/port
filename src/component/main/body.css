@@ -1,0 +1,39 @@
+
+.yy{
+  margin-top: 100px;
+}
+
+.Header{
+  color: aliceblue;
+}
+.bi{
+  color: white;
+}
+
+@media screen and (max-width: 756px) {
+    .Header {
+      font-size: 50px !important; 
+    }
+    .yy {
+      margin-top: 8vh !important;
+    }
+    .gel {
+      margin-top: 10px;
+    }
+  }
+
+  
+.btn {
+  background-color: orange !important;
+}
+.text-btn {
+  text-decoration: none;
+}
+.Header {
+  font-size: 65px;
+}
+
+.img-fluid {
+  max-height: 300px;
+}
+
