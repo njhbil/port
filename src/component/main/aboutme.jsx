@@ -45,9 +45,8 @@ function AboutMe() {
           <div class="vv card ">
             <div class="card-body">
               <p class="card-text text-white ">
-                Informatics student at the State University of Surabaya with a
-                high enthusiasm for learning new things and a strong
-                determination to face challenges. I have an enthusiasm in{" "}
+              Informatics Enthusiast with a high enthusiasm for learning new things and a 
+              strong determination to face challenges. I have an enthusiasm in{" "}
                 <li>
                   {" "}
                   HTML <li>CSS</li> <li>JavaScript</li>
